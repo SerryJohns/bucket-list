@@ -33,6 +33,6 @@ six==1.10.0
 SQLAlchemy==1.1.11
 termstyle==0.1.11
 travis==0.0.3
-urllib3==1.21.1
+urllib3==1.24.2
 Werkzeug==0.12.2
 WTForms==2.1
